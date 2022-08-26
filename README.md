@@ -2,63 +2,32 @@
 This project is a Quality Assurance Project. To run my project do the following: Clone github.com/deartc/QualityAssuranceProject. 
 
 
+Feature List:
+Implement a “master loop” console application where the user can repeatedly enter commands/perform actions, including choosing to exit the program
 
-Category 1: Python Programming Basics:
+Create an additional class which inherits one or more properties from its parent
 
-Conversion tool displaying data based on an external factor: the current date, and then how many days remaining until some future date, the Kentucky Derby Festival MiniMarathon/Marathon.
+Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program
 
-Dictionary or list, populated with several values, retrieved at least one value.
+Implement a log that records errors, invalid inputs, or other important events and writes them to a text file
 
-Regex to ensure fields, a web address and an email address, are always stored and displayed in the same format.
+Read data from an external file, such as text, JSON, CSV, etc and use that data in your application
 
-Category 2: Utilize External Data:
+Implement a regular expression (regex) to ensure a field either a phone number or an email address is always stored and displayed in the same format
+Connect to an external/3rd party API and read data into your app
 
-Excel data files A. Data file cleaned B. Missing data addressed C. NAN values addressed D. Statistical analysis of data: Mean, Median, Mode D. Summary of relevant data files listed and analyzed E. Excel data plotted using matplotlib.
+Use a LINQ query to retrieve information from a data structure (such as a list or array) or file
 
-Kaggle data files A. Iloc Location of exercise in file used and identified B. Calories of four exercisers calculated with different exercise location and weight on Kaggle C. Summary and analysis of the data plotted using matploblib
-
-Category 3: Data Display
-
-(Matplot Colab) Matplot scatter diagram A. Excel data files scatter diagram of B. Histogram C. Correlation Charts D. Heat Map
-
-(Matplot Kaggle) Matplot scatter diagram A. Data files scatter diagram B. Histogram C. Correlation Charts
-
-(Tableau) Tableau to chart Excel data A. Calories Bar Chart for Each Exerciser B. Steps Line Chart for Each Exerciser
-C. Calories Steps Chart D. Exerciser Comparison Chart
-
-Tableau link:
-
-https://public.tableau.com/views/TERESAHAWKINSEXERCISEDATAPROJECTDECEMBER2021/DECEMBERCALORIES2021?:language=en-US&:display_count=n&:origin=viz_share_link
-
-Tableau Comparison Chart:. To run my project do the following: Clone github.com/deartc/FitBitLit. To run the Colab portion which lists the actual exercise data of my project, go to fitbitdata.ipynb and use the Colab link to open up in Colab. Once open use runtime tab then the option "run all" to update data. Answer yes when prompted by this warning: "This notebook was not authored by Google." If you wish to alter or use file follow the instructions listed. "Please make a copy of this notebook before using it. Go to Files > Save a Copy in Drive" I used the following imported libraries: pandas, matplotlib,sns, re datetime, datasets, and data_table in the project.
-
-The Kaggle file is separate from the Colab file. It was included to show the use of Kaggle. It lists the weights of the exercisers and the potential calories burned by certain activities. The Kaggle file kagglefitbit.ipynb can be accessed by clicking on the Kaggle link and once opened up, run it to update data. The imported libraries include pandas, and matplotlib.
-
-Tableau can be accessed by clicking on the Tableau link. The four charts can then be accessed by clicking on the tabs at the top of the document.
-
-Category 1: Python Programming Basics:
-
-Conversion tool displaying data based on an external factor: the current date, and then how many days remaining until some future date, the Kentucky Derby Festival MiniMarathon/Marathon.
-
-Dictionary or list, populated with several values, retrieved at least one value.
-
-Regex to ensure fields, a web address and an email address, are always stored and displayed in the same format.
-
-Category 2: Utilize External Data:
+Create 3 or more unit tests for your application
 
 
+Build a conversion tool that converts user input to another type and displays it (ex: converts cups to grams)
 
-Category 3: Data Display
+Calculate and display data based on an external factor (ex: get the current date, and display how many days remaining until some event)
 
-(Matplot Colab) Matplot scatter diagram A. Excel data files scatter diagram of B. Histogram C. Correlation Charts D. Heat Map
+Analyze text and display information about it (ex: how many words in a paragraph)
 
-(Matplot Kaggle) Matplot scatter diagram A. Data files scatter diagram B. Histogram C. Correlation Charts
+Visualize data in a graph, chart, or other visual representation of data
+Other features can be added to this list with mentor or staff permission, but we want to see you stretch your skills, so you’ll want to pick something challenging.
 
-(Tableau) Tableau to chart Excel data A. Calories Bar Chart for Each Exerciser B. Steps Line Chart for Each Exerciser
-C. Calories Steps Chart D. Exerciser Comparison Chart
 
-Tableau link:
-
-https://public.tableau.com/views/TERESAHAWKINSEXERCISEDATAPROJECTDECEMBER2021/DECEMBERCALORIES2021?:language=en-US&:display_count=n&:origin=viz_share_link
-
-Tableau Comparison Chart:
